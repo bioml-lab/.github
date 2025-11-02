@@ -12,7 +12,7 @@
 
 🔭 &nbsp; Our current research focuses on **Multi-Modal Fusion, Antimicrobial Resistance (AMR) Prediction, Interpretable AI for Diagnostics, and novel Deep Learning frameworks for Medical Imaging and Audio.**
 
-👨‍💻 &nbsp; Explore our work and projects on our **[Official Website](https://[YOUR-LAB-WEBSITE-URL-HERE].com/)**.
+👨‍💻 &nbsp; Explore our work and projects on our **[Official Website](https://bioml-lab.github.io/)**.
 
 🌱 &nbsp; We are always looking for new ideas and passionate collaborators. If our work interests you, please get in touch!
 
@@ -23,7 +23,7 @@
 ### 📬 Connect with Us
 
 <p align="left">
-  <a href="https://[YOUR-LAB-WEBSITE-URL-HERE].com/" target="_blank">
+  <a href="https://bioml-lab.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Website-BIOML_Lab-blue?style=for-the-badge&logo=google-chrome" />
   </a>
   <a href="mailto:bioml.bd@gmail.com">
